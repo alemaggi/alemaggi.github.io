@@ -41,23 +41,33 @@ a:hover{
     cursor: pointer;
 }
 
+
+
 .social-container {
     position: fixed;
     left: 50%;
+    align-items: center;
     margin-top: 100px;
     margin-left: -75px;
     width: 150px;
-    align-content: center;
+    text-align: center;
+    vertical-align: bottom;
 }
 
-.fa {
-    padding: 20px;
-    font-size: 30px;
+.fa{
+    font-size: 25px;
     width: 30px;
-    text-align: center;
     text-decoration: none;
     margin: 5px 2px;
     border-radius: 50%;
+}
+
+#firstIcon{
+    margin-right: 7px;
+}
+
+#thirdIcon{
+    margin-left: 7px;
 }
 
 /* Media query */
