@@ -1,5 +1,5 @@
 var typed = new Typed(".typed", {
-    strings: ["Computer engineering student", "Maker", "Tech enthusiast"],
+    strings: ["Computer science student", "Maker", "Tech enthusiast"],
     smartBackspace: true, // Default value
     typeSpeed: 40,
     backSpeed: 40,
